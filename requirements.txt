@@ -1,0 +1,14 @@
+Chromadb
+Flask
+google-search-results
+jupyterlab_widgets
+ipywidgets
+langchain==0.0.157
+#matplotlib # required by openai.embeddings
+numpy
+openai
+PyCryptodome # required by pypdf
+pypdf
+sentencepiece==0.1.97
+tiktoken # required by langchain's OpenAIEmbeddings
+
