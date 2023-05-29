@@ -19,4 +19,4 @@ COPY ./chroma_db/ ./chroma_db/
 
 
 EXPOSE 5000
-#CMD [ "python", "./src/app.py"]
+CMD [ "python", "./src/server.py"]
