@@ -10,5 +10,6 @@ openai
 PyCryptodome # required by pypdf
 pypdf
 sentencepiece==0.1.97
+sentence-transformers
 tiktoken # required by langchain's OpenAIEmbeddings
 
